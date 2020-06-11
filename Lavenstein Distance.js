@@ -53,4 +53,3 @@ const getLavensteinDistance = (str1, str2) => {
 };
 
 console.log(getLavensteinDistance("delete", "omelette"));
-console.log(getLavensteinDistance1("delete", "omelette"));
